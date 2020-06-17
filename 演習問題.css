@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.main-visual-spring {
+	width: 100%;
+	height: 200px;
+	background-image: url(img演習問題/box1.jpg);
+}
+.main-visual-summer {
+	width: 100%;
+	height: 200px;
+	background-image: url(img演習問題/box2.jpg);
+}
+.main-visual-autumn {
+	width: 100%;
+	height: 200px;
+	background-image: url(img演習問題/box3.jpg);
+}
+.main-visual-winter {
+	width: 100%;
+	height: 200px;
+	background-image: url(img演習問題/box4.jpg);
+}
